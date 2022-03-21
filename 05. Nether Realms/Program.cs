@@ -6,10 +6,15 @@ namespace _05._Nether_Realms
     {
         static void Main()
         {
-            string input = Console.ReadLine();
+            string[] input = Console.ReadLine().Split(",",StringSplitOptions.RemoveEmptyEntries);
             string healthPattern = @"[^0-9+\-*/.]";
             string baseDamagePatternDigits = @"(-?\d*)(\d+(\.\d+)?)";
-            string baseDamagePatternSpecialSimbols = @"(?<star>\*?)(?<forwardslash>\/?)";
+            string baseDamagePatternSpecialSimbols = @"[*/]";
+
+            foreach (string deamon in input)
+            {
+                //TODO: logic implementation
+            }
         }
     }
 }
