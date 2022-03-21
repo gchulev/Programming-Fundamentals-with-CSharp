@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\bin\Debug\net5.0\01. Furniture.exe
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\bin\Debug\net5.0\01. Furniture.deps.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\bin\Debug\net5.0\01. Furniture.runtimeconfig.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\bin\Debug\net5.0\01. Furniture.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\bin\Debug\net5.0\01. Furniture.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\bin\Debug\net5.0\01. Furniture.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.AssemblyInfo.cs
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\refint\01. Furniture.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\01. Furniture.genruntimeconfig.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\01. Furniture\obj\Debug\net5.0\ref\01. Furniture.dll

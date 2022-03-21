@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\bin\Debug\net5.0\04. Orders.exe
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\bin\Debug\net5.0\04. Orders.deps.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\bin\Debug\net5.0\04. Orders.runtimeconfig.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\bin\Debug\net5.0\04. Orders.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\bin\Debug\net5.0\04. Orders.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\bin\Debug\net5.0\04. Orders.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.AssemblyInfo.cs
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\refint\04. Orders.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\04. Orders.genruntimeconfig.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\04. Orders\obj\Debug\net5.0\ref\04. Orders.dll

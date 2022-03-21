@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.exe
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.deps.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.runtimeconfig.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\bin\Debug\net5.0\05. SoftUni Parking.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.AssemblyInfo.cs
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\refint\05. SoftUni Parking.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\05. SoftUni Parking.genruntimeconfig.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\05. SoftUni Parking\obj\Debug\net5.0\ref\05. SoftUni Parking.dll

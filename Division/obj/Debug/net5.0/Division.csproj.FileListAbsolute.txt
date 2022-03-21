@@ -1,0 +1,16 @@
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\bin\Debug\net5.0\Division.exe
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\bin\Debug\net5.0\Division.deps.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\bin\Debug\net5.0\Division.runtimeconfig.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\bin\Debug\net5.0\Division.runtimeconfig.dev.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\bin\Debug\net5.0\Division.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\bin\Debug\net5.0\ref\Division.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\bin\Debug\net5.0\Division.pdb
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.AssemblyInfoInputs.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.AssemblyInfo.cs
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\ref\Division.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.pdb
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.genruntimeconfig.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Division\obj\Debug\net5.0\Division.csproj.AssemblyReference.cache

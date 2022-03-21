@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\bin\Debug\net5.0\03. Extract File.exe
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\bin\Debug\net5.0\03. Extract File.deps.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\bin\Debug\net5.0\03. Extract File.runtimeconfig.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\bin\Debug\net5.0\03. Extract File.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\bin\Debug\net5.0\03. Extract File.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\bin\Debug\net5.0\03. Extract File.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.AssemblyInfo.cs
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\refint\03. Extract File.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\03. Extract File.genruntimeconfig.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\03. Extract File\obj\Debug\net5.0\ref\03. Extract File.dll

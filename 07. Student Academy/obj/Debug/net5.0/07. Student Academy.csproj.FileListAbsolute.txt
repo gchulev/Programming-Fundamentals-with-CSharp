@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\bin\Debug\net5.0\07. Student Academy.exe
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\bin\Debug\net5.0\07. Student Academy.deps.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\bin\Debug\net5.0\07. Student Academy.runtimeconfig.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\bin\Debug\net5.0\07. Student Academy.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\bin\Debug\net5.0\07. Student Academy.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\bin\Debug\net5.0\07. Student Academy.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.AssemblyInfo.cs
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\refint\07. Student Academy.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\07. Student Academy.genruntimeconfig.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\07. Student Academy\obj\Debug\net5.0\ref\07. Student Academy.dll

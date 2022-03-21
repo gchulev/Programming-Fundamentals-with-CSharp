@@ -1,0 +1,16 @@
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\bin\Debug\net5.0\test.exe
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\bin\Debug\net5.0\test.deps.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\bin\Debug\net5.0\test.runtimeconfig.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\bin\Debug\net5.0\test.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\bin\Debug\net5.0\test.pdb
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\refint\test.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.pdb
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\test\obj\Debug\net5.0\ref\test.dll

@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\bin\Debug\net5.0\08. Company Users.exe
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\bin\Debug\net5.0\08. Company Users.deps.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\bin\Debug\net5.0\08. Company Users.runtimeconfig.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\bin\Debug\net5.0\08. Company Users.runtimeconfig.dev.json
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\bin\Debug\net5.0\08. Company Users.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\bin\Debug\net5.0\08. Company Users.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.AssemblyInfo.cs
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\refint\08. Company Users.dll
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.pdb
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\08. Company Users.genruntimeconfig.cache
+D:\Visual Studio\Projects\Programming Fundamentals with CSharp\08. Company Users\obj\Debug\net5.0\ref\08. Company Users.dll

@@ -1,0 +1,16 @@
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Ages.exe
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Ages.deps.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Ages.runtimeconfig.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Ages.runtimeconfig.dev.json
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Ages.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\ref\Ages.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\bin\Debug\net5.0\Ages.pdb
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.csproj.AssemblyReference.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.AssemblyInfoInputs.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.AssemblyInfo.cs
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\ref\Ages.dll
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.pdb
+G:\Visual Studio\Projects\Programming Fundamentals with CSharp\Basic Syntax, Conditional Statements and Loops - Exercise\obj\Debug\net5.0\Ages.genruntimeconfig.cache
