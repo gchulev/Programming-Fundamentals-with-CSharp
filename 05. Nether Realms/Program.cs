@@ -43,6 +43,7 @@ namespace _05._Nether_Realms
             foreach (var daemon in deamons)
             {
                 Dictionary<int, double> daemonStats = daemon.Value;
+
                 Console.Write(daemon.Key);
                 foreach (var stat in daemonStats)
                 {
