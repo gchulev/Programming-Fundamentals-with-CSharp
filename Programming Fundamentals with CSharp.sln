@@ -221,6 +221,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Need for Speed III", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. The Imitation Game", "01. The Imitation Game\01. The Imitation Game.csproj", "{7CF3ADC5-3512-4532-8DCC-D9E018D0CACC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{7061950E-1655-4B45-987C-DAA90D90536F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -663,6 +665,10 @@ Global
 		{7CF3ADC5-3512-4532-8DCC-D9E018D0CACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CF3ADC5-3512-4532-8DCC-D9E018D0CACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CF3ADC5-3512-4532-8DCC-D9E018D0CACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7061950E-1655-4B45-987C-DAA90D90536F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7061950E-1655-4B45-987C-DAA90D90536F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7061950E-1655-4B45-987C-DAA90D90536F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7061950E-1655-4B45-987C-DAA90D90536F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
