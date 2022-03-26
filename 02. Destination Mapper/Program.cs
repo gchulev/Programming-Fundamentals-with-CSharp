@@ -10,7 +10,7 @@ namespace _02._Destination_Mapper
         {
             string input = Console.ReadLine();
             List<string> destinations = new List<string>();
-            Regex rgx = new Regex(@"(=|\/)(?<location>[A-Z][A-Za-z]{3,})\1");
+            Regex rgx = new Regex(@"(=|\/)(?<location>[A-Z][A-Za-z]{2,})\1");
             MatchCollection matches = rgx.Matches(input);
             int travelPoints = 0;
 
