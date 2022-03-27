@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Heroes of Code and Logi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Activation Keys", "01. Activation Keys\01. Activation Keys.csproj", "{87BA9B2B-2F46-4C9E-ABCC-86F84FB58B82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{1820FB17-8BD4-4C36-BBDB-2E64739E56D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +719,10 @@ Global
 		{87BA9B2B-2F46-4C9E-ABCC-86F84FB58B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87BA9B2B-2F46-4C9E-ABCC-86F84FB58B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87BA9B2B-2F46-4C9E-ABCC-86F84FB58B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1820FB17-8BD4-4C36-BBDB-2E64739E56D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1820FB17-8BD4-4C36-BBDB-2E64739E56D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1820FB17-8BD4-4C36-BBDB-2E64739E56D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1820FB17-8BD4-4C36-BBDB-2E64739E56D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
