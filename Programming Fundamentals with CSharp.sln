@@ -215,37 +215,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Star Enigma", "04. Star
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Nether Realms", "05. Nether Realms\05. Nether Realms.csproj", "{EA1B2035-DC51-4D32-A5DA-82BAFCAD6621}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Extract Emails", "06. Extract Emails\06. Extract Emails.csproj", "{A909C2A9-8CF0-4E52-9A2D-AA94057E398C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Extract Emails", "06. Extract Emails\06. Extract Emails.csproj", "{A909C2A9-8CF0-4E52-9A2D-AA94057E398C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Need for Speed III", "03. Need for Speed III\03. Need for Speed III.csproj", "{F250B5DB-05BD-4D77-9F46-433D1875ED26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Need for Speed III", "03. Need for Speed III\03. Need for Speed III.csproj", "{F250B5DB-05BD-4D77-9F46-433D1875ED26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. The Imitation Game", "01. The Imitation Game\01. The Imitation Game.csproj", "{7CF3ADC5-3512-4532-8DCC-D9E018D0CACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. The Imitation Game", "01. The Imitation Game\01. The Imitation Game.csproj", "{7CF3ADC5-3512-4532-8DCC-D9E018D0CACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{7061950E-1655-4B45-987C-DAA90D90536F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Ad Astra", "02. Ad Astra\02. Ad Astra.csproj", "{7061950E-1655-4B45-987C-DAA90D90536F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. The Pianist", "03. The Pianist\03. The Pianist.csproj", "{9797F86B-982F-460E-A5D4-7257A0C7EF78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. The Pianist", "03. The Pianist\03. The Pianist.csproj", "{9797F86B-982F-460E-A5D4-7257A0C7EF78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. World Tour", "01. World Tour\01. World Tour.csproj", "{84710058-56D6-4234-B1AC-BA21BD79E4D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. World Tour", "01. World Tour\01. World Tour.csproj", "{84710058-56D6-4234-B1AC-BA21BD79E4D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Destination Mapper", "02. Destination Mapper\02. Destination Mapper.csproj", "{27DE5248-70B9-4FC8-8CA7-42F0A2D53715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Destination Mapper", "02. Destination Mapper\02. Destination Mapper.csproj", "{27DE5248-70B9-4FC8-8CA7-42F0A2D53715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Plant Discovery", "03. Plant Discovery\03. Plant Discovery.csproj", "{403F3743-3A2A-4050-BC08-CDCE7D42F300}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Plant Discovery", "03. Plant Discovery\03. Plant Discovery.csproj", "{403F3743-3A2A-4050-BC08-CDCE7D42F300}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Password Reset", "01. Password Reset\01. Password Reset.csproj", "{8D772685-574F-43EC-A701-9AAC2D1ED54D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Password Reset", "01. Password Reset\01. Password Reset.csproj", "{8D772685-574F-43EC-A701-9AAC2D1ED54D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Fancy Barcodes", "02. Fancy Barcodes\02. Fancy Barcodes.csproj", "{02034EB8-B174-4CDB-AC32-9EF6E36A8BE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Fancy Barcodes", "02. Fancy Barcodes\02. Fancy Barcodes.csproj", "{02034EB8-B174-4CDB-AC32-9EF6E36A8BE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Heroes of Code and Logic VII", "03. Heroes of Code and Logic VII\03. Heroes of Code and Logic VII.csproj", "{EBBCC97D-FFD3-49D7-9EC8-8116518C3F01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Heroes of Code and Logic VII", "03. Heroes of Code and Logic VII\03. Heroes of Code and Logic VII.csproj", "{EBBCC97D-FFD3-49D7-9EC8-8116518C3F01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Activation Keys", "01. Activation Keys\01. Activation Keys.csproj", "{87BA9B2B-2F46-4C9E-ABCC-86F84FB58B82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Activation Keys", "01. Activation Keys\01. Activation Keys.csproj", "{87BA9B2B-2F46-4C9E-ABCC-86F84FB58B82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{1820FB17-8BD4-4C36-BBDB-2E64739E56D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{1820FB17-8BD4-4C36-BBDB-2E64739E56D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. P!rates", "03. P!rates\03. P!rates.csproj", "{E57E3998-0D0D-4B16-BE2E-4B53ECE95B5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. P!rates", "03. P!rates\03. P!rates.csproj", "{E57E3998-0D0D-4B16-BE2E-4B53ECE95B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Winning Ticket", "1. Winning Ticket\1. Winning Ticket.csproj", "{EEFF260F-4AA5-47FA-85BA-55427150DE4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Winning Ticket", "1. Winning Ticket\1. Winning Ticket.csproj", "{EEFF260F-4AA5-47FA-85BA-55427150DE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Rage Quit", "2. Rage Quit\2. Rage Quit.csproj", "{7E573F01-D25C-48BF-83BE-40DC5800F6C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Rage Quit", "2. Rage Quit\2. Rage Quit.csproj", "{7E573F01-D25C-48BF-83BE-40DC5800F6C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Post Office", "3. Post Office\3. Post Office.csproj", "{E7A9B6F8-299A-4009-9FC2-396316C7793D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testprj", "testprj\testprj.csproj", "{894CCDBD-EF95-4C5F-B576-3A889861F410}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -741,6 +745,14 @@ Global
 		{7E573F01-D25C-48BF-83BE-40DC5800F6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E573F01-D25C-48BF-83BE-40DC5800F6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E573F01-D25C-48BF-83BE-40DC5800F6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A9B6F8-299A-4009-9FC2-396316C7793D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A9B6F8-299A-4009-9FC2-396316C7793D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A9B6F8-299A-4009-9FC2-396316C7793D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A9B6F8-299A-4009-9FC2-396316C7793D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894CCDBD-EF95-4C5F-B576-3A889861F410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894CCDBD-EF95-4C5F-B576-3A889861F410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894CCDBD-EF95-4C5F-B576-3A889861F410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894CCDBD-EF95-4C5F-B576-3A889861F410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
