@@ -249,7 +249,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Rage Quit", "2. Rage Qui
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Post Office", "3. Post Office\3. Post Office.csproj", "{E7A9B6F8-299A-4009-9FC2-396316C7793D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Santa's Secret Helper", "4. Santa's Secret Helper\4. Santa's Secret Helper.csproj", "{F014F4A0-5E07-4A13-B7D4-446E3D8249F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Santa's Secret Helper", "4. Santa's Secret Helper\4. Santa's Secret Helper.csproj", "{F014F4A0-5E07-4A13-B7D4-446E3D8249F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Password Validator", "01. Password Validator\01. Password Validator.csproj", "{50A16832-6833-444A-AB8B-E7913A34E24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Followers", "03. Followers\03. Followers.csproj", "{29591D26-24DB-40C1-AA43-DCF1E47F102A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Encrypting Password", "02. Encrypting Password\02. Encrypting Password.csproj", "{9546BEA2-F7CD-4C14-9EF2-A9DDD271796C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1", "test1\test1.csproj", "{CFD409A6-7EF9-46FF-80FC-809A734C8399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -753,6 +761,22 @@ Global
 		{F014F4A0-5E07-4A13-B7D4-446E3D8249F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F014F4A0-5E07-4A13-B7D4-446E3D8249F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F014F4A0-5E07-4A13-B7D4-446E3D8249F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A16832-6833-444A-AB8B-E7913A34E24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A16832-6833-444A-AB8B-E7913A34E24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A16832-6833-444A-AB8B-E7913A34E24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A16832-6833-444A-AB8B-E7913A34E24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29591D26-24DB-40C1-AA43-DCF1E47F102A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29591D26-24DB-40C1-AA43-DCF1E47F102A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29591D26-24DB-40C1-AA43-DCF1E47F102A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29591D26-24DB-40C1-AA43-DCF1E47F102A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9546BEA2-F7CD-4C14-9EF2-A9DDD271796C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9546BEA2-F7CD-4C14-9EF2-A9DDD271796C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9546BEA2-F7CD-4C14-9EF2-A9DDD271796C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9546BEA2-F7CD-4C14-9EF2-A9DDD271796C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD409A6-7EF9-46FF-80FC-809A734C8399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD409A6-7EF9-46FF-80FC-809A734C8399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD409A6-7EF9-46FF-80FC-809A734C8399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD409A6-7EF9-46FF-80FC-809A734C8399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
